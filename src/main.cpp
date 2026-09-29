@@ -8,8 +8,8 @@
 #include <Adafruit_CST8XX.h> // touchscreen
 
 // WiFi omrežje
-const char* ssid = "Nick XV";
-const char* password = "petevrov";
+const char* ssid = ""; //ENTER NAME OF PERSONAL HOTSPOT
+const char* password = ""; //ENTER PASSWORD OF PERSONAL HOTSPOT
 
 // refresh rate
 unsigned long lastUpdate = 0;
